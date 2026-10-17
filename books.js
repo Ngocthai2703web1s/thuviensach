@@ -231,6 +231,62 @@ const mockBookData = [{
         imageLink: "#"
     },
 	{
+        bookName: "Địa Cầu Lang Thang - Lưu Từ Hân",
+        categories: ["Viễn Tưởng", "Sử Thi"],
+        downloadLink: "#",
+        buyLink: "#",
+        imageLink: "https://i.ibb.co/pkdD6hz/847631225-122236671962315355-3916250618189379594-n.jpg"
+    },
+	{
+        bookName: "Bảy Vị Sư Tỷ Tuyệt Sắc Của Ta - Lạp Mỗ Ca",
+        categories: ["Trinh Thám"],
+        downloadLink: "#",
+        buyLink: "#",
+        imageLink: "#"
+    },
+	{
+        bookName: "Bóng Tối Trỗi Dậy - Susan Cooper",
+        categories: ["Trinh Thám"],
+        downloadLink: "#",
+        buyLink: "#",
+        imageLink: "#"
+    },
+	{
+        bookName: "Bột Mì Vĩnh Cửu - Alexander Romanovich Belyaev",
+        categories: ["Trinh Thám"],
+        downloadLink: "#",
+        buyLink: "#",
+        imageLink: "#"
+    },
+	{
+        bookName: "Cái Nguyền Rủa Này Thật Quá Tuyệt Vời - Hành Giả Hữu Tam",
+        categories: ["Trinh Thám"],
+        downloadLink: "#",
+        buyLink: "#",
+        imageLink: "#"
+    },
+	{
+        bookName: "Càn Khôn Kiếm Thần - Trần Sơn",
+        categories: ["Trinh Thám"],
+        downloadLink: "#",
+        buyLink: "#",
+        imageLink: "#"
+    },
+	{
+        bookName: "Cậu Cả Tu Chân - Vũ Hạ Đích Hảo Đại",
+        categories: ["Trinh Thám"],
+        downloadLink: "#",
+        buyLink: "#",
+        imageLink: "#"
+    },
+	{
+        bookName: "Câu Lạc Bộ Thiên Tài - Thành Thành Dữ Thiền",
+        categories: ["Trinh Thám"],
+        downloadLink: "#",
+        buyLink: "#",
+        imageLink: "#"
+    },
+	{
         bookName: "#",
         categories: ["Trinh Thám"],
         downloadLink: "#",
