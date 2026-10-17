@@ -159,5 +159,82 @@ const mockBookData = [{
         downloadLink: "#",
         buyLink: "#",
         imageLink: "https://i.ibb.co/0pYKNLbR/Ng-Th-a-n-Tr-c-Y-u-K-2.jpg"
+    },
+	{
+        bookName: "28 - Jeong You-Jeong",
+        categories: ["Trinh Thám"],
+        downloadLink: "#",
+        buyLink: "#",
+        imageLink: "#"
+    },
+	{
+        bookName: "Bá Võ - Khai Hoang",
+        categories: ["Trinh Thám"],
+        downloadLink: "#",
+        buyLink: "#",
+        imageLink: "#"
+    },
+	{
+        bookName: "Bậc Thầy Phong Thủy - Đào Hoa Độ",
+        categories: ["Trinh Thám"],
+        downloadLink: "#",
+        buyLink: "#",
+        imageLink: "#"
+    },
+	{
+        bookName: "Bách Hóa Giấc Mơ Của Ngài Dollargut - Lee Miye",
+        categories: ["Trinh Thám"],
+        downloadLink: "#",
+        buyLink: "#",
+        imageLink: "#"
+    },
+	{
+        bookName: "Bảo Ngươi Làm Trò Chơi Ngươi Lại Làm Video CG - Tiềm Thủy Đích Oa Ba",
+        categories: ["Trinh Thám"],
+        downloadLink: "#",
+        buyLink: "#",
+        imageLink: "#"
+    },
+	{
+        bookName: "Bắt Đầu Đánh Dấu Hoang Cổ Thánh Thể - J Thần",
+        categories: ["Trinh Thám"],
+        downloadLink: "#",
+        buyLink: "#",
+        imageLink: "#"
+    },
+	{
+        bookName: "Bắt Đầu Nạp Tiền Một Tỷ - Tiểu Tiểu Yêu Tiên",
+        categories: ["Trinh Thám"],
+        downloadLink: "#",
+        buyLink: "#",
+        imageLink: "#"
+    },
+	{
+        bookName: "Dân Gian Quỷ Văn Thực Lục - La Tiều Sâm",
+        categories: ["Linh Dị"],
+        downloadLink: "#",
+        buyLink: "#",
+        imageLink: "https://i.ibb.co/8nWwK5GS/854188459-3073051903036704-3124978966163879115-n.jpg"
+    },
+	{
+        bookName: "Bắt Đầu Quá Mạnh Làm Sao Bây Giờ - Phạm Thần",
+        categories: ["Trinh Thám"],
+        downloadLink: "#",
+        buyLink: "#",
+        imageLink: "#"
+    },
+	{
+        bookName: "Bắt Đầu Từ Hỗn Độn Thể - Tiên Nữ Xuyên Liễu Bàn Thứ",
+        categories: ["Trinh Thám"],
+        downloadLink: "#",
+        buyLink: "#",
+        imageLink: "#"
+    },
+	{
+        bookName: "#",
+        categories: ["Trinh Thám"],
+        downloadLink: "#",
+        buyLink: "#",
+        imageLink: "#"
     }
 ];
