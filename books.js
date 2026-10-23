@@ -109,21 +109,21 @@ const mockBookData = [{
         categories: ["Tuổi Học Trò", "Truyện Ngắn"],
         downloadLink: "https://vuotnhanh.com/ELW0",
         buyLink: "#",
-        imageLink: "#"
+        imageLink: "https://i.ibb.co/hRB0vK3g/FDYH.jpg"
     },
 	{
         bookName: "Hoa Hồng Xứ Khác - Nguyễn Nhật Ánh",
         categories: ["Tuổi Học Trò", "Truyện Ngắn"],
         downloadLink: "https://vuotnhanh.com/cJK3",
         buyLink: "#",
-        imageLink: "#"
+        imageLink: "https://i.ibb.co/FkqSw7Bz/31658.jpg"
     },
 	{
         bookName: "Họa Mi Một Mình - Nguyễn Nhật Ánh",
         categories: ["Tuổi Học Trò", "Truyện Ngắn"],
         downloadLink: "https://vuotnhanh.com/evMT",
         buyLink: "#",
-        imageLink: "#"
+        imageLink: "https://i.ibb.co/ymybHTpg/3623.jpg"
     },
 	{
         bookName: "Những Năm Làm Thầy Phong Thủy Giới Showbiz - Khổ Qua Xào Cua Hoa",
@@ -205,28 +205,28 @@ const mockBookData = [{
 	{
         bookName: "Dân Gian Quỷ Văn Thực Lục - La Tiều Sâm",
         categories: ["Linh Dị"],
-        downloadLink: "#",
+        downloadLink: "https://vuotnhanh.com/tIE0",
         buyLink: "#",
         imageLink: "https://i.ibb.co/8nWwK5GS/854188459-3073051903036704-3124978966163879115-n.jpg"
     },
 	{
         bookName: "Bắt Đầu Quá Mạnh Làm Sao Bây Giờ - Phạm Thần",
         categories: ["Huyền Huyễn"],
-        downloadLink: "#",
+        downloadLink: "https://vuotnhanh.com/2jiY",
         buyLink: "#",
         imageLink: "https://i.ibb.co/RTM40Px2/213.jpg"
     },
 	{
         bookName: "Bắt Đầu Từ Hỗn Độn Thể - Tiên Nữ Xuyên Liễu Bàn Thứ",
         categories: ["Huyền Huyễn"],
-        downloadLink: "#",
+        downloadLink: "https://vuotnhanh.com/Pa4u",
         buyLink: "#",
         imageLink: "https://i.ibb.co/v4RNQfsp/sda.jpg"
     },
 	{
         bookName: "Địa Cầu Lang Thang - Lưu Từ Hân",
         categories: ["Viễn Tưởng", "Sử Thi"],
-        downloadLink: "#",
+        downloadLink: "https://vuotnhanh.com/isLq",
         buyLink: "#",
         imageLink: "https://i.ibb.co/pkdD6hz/847631225-122236671962315355-3916250618189379594-n.jpg"
     },
@@ -260,29 +260,29 @@ const mockBookData = [{
     },
 	{
         bookName: "Càn Khôn Kiếm Thần - Trần Sơn",
-        categories: ["Trinh Thám"],
-        downloadLink: "#",
+        categories: ["Huyền Huyễn"],
+        downloadLink: "https://vuotnhanh.com/Kz1K",
         buyLink: "#",
-        imageLink: "#"
+        imageLink: "https://i.ibb.co/tpktqLp4/images.jpg"
     },
 	{
         bookName: "Cậu Cả Tu Chân - Vũ Hạ Đích Hảo Đại",
-        categories: ["Trinh Thám"],
-        downloadLink: "#",
+        categories: ["Tiên Hiệp", "Sảng Văn"],
+        downloadLink: "https://vuotnhanh.com/22xJ",
         buyLink: "#",
-        imageLink: "#"
+        imageLink: "https://i.ibb.co/Kcp7gjnc/213.jpg"
     },
 	{
         bookName: "Câu Lạc Bộ Thiên Tài - Thành Thành Dữ Thiền",
-        categories: ["Trinh Thám"],
-        downloadLink: "#",
+        categories: ["Trinh Thám", "Viễn Tưởng", "Đấu Trí"],
+        downloadLink: "https://vuotnhanh.com/44zB",
         buyLink: "#",
-        imageLink: "#"
+        imageLink: "https://i.ibb.co/VY7p9PpM/632.jpg"
     },
 	{
         bookName: "Cục Quản Lý Truyền Thuyết -  Sát Trùng Đội Đội Viên",
         categories: ["Vô Hạn Lưu", "Thần Thoại", "Huyền Ảo", "Trinh Thám", "Xuyên Không"],
-        downloadLink: "#",
+        downloadLink: "https://vuotnhanh.com/rWII",
         buyLink: "#",
         imageLink: "https://i.ibb.co/yGKYfdq/857106882-122237312912315355-7816280979642420808-n.jpg"
     },
@@ -299,6 +299,13 @@ const mockBookData = [{
         downloadLink: "#",
         buyLink: "#",
         imageLink: "https://i.ibb.co/KxS471hs/first-look-poster-1713322945213260277014.jpg"
+    },
+	{
+        bookName: "Mao Sơn Hậu Duệ - Đại Lực Kim Cương Chưởng",
+        categories: ["Trinh Thám", "Linh Dị"],
+        downloadLink: "https://vuotnhanh.com/ZiVW",
+        buyLink: "#",
+        imageLink: "https://i.ibb.co/5h3BkLLc/856911931-3079348382407056-819681754064011494-n.jpg"
     },
 	{
         bookName: "#",
