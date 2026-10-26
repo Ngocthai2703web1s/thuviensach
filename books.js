@@ -240,7 +240,7 @@ const mockBookData = [{
 	{
         bookName: "Bóng Tối Trỗi Dậy - Susan Cooper",
         categories: ["Huyền Ảo"],
-        downloadLink: "#",
+        downloadLink: "https://vuotnhanh.com/IrUH",
         buyLink: "#",
         imageLink: "https://i.ibb.co/G4vh3Byx/sad.jpg"
     },
@@ -306,6 +306,27 @@ const mockBookData = [{
         downloadLink: "https://vuotnhanh.com/ZiVW",
         buyLink: "#",
         imageLink: "https://i.ibb.co/5h3BkLLc/856911931-3079348382407056-819681754064011494-n.jpg"
+    },
+	{
+        bookName: "Cỗ Máy Thời Gian - Herbert George Wells",
+        categories: ["Viễn Tưởng"],
+        downloadLink: "https://vuotnhanh.com/2QvZ",
+        buyLink: "#",
+        imageLink: "https://i.ibb.co/QF4FsWKn/143.webp"
+    },
+	{
+        bookName: "Bệnh Viện Số 444 - Hắc Sắc Hỏa Chủng",
+        categories: ["Trinh Thám", "Linh Dị", "Sinh Tồn"],
+        downloadLink: "https://vuotnhanh.com/Cddv",
+        buyLink: "#",
+        imageLink: "https://i.ibb.co/YBQ0CMx0/5487.jpg"
+    },
+	{
+        bookName: "Thầy Xăm Âm Dương - Mặc Đại Tiên Sinh",
+        categories: ["Linh Dị", "Phong Thủy", "Đô Thị", "Giật Gân"],
+        downloadLink: "https://vuotnhanh.com/hkaQ",
+        buyLink: "#",
+        imageLink: "https://i.ibb.co/1JGtn43p/989.jpg"
     },
 	{
         bookName: "#",
