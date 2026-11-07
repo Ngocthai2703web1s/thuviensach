@@ -1,7 +1,7 @@
 // File chứa dữ liệu sách (mock data)
 const mockBookData = [{
         bookName: "Ma Y Thần Toán Tử - Kỵ Mã Điếu Ngư",
-        categories: ["Trinh Thám", "Kinh Dị", "Y Học", "Tiểu Thuyết"],
+        categories: ["Trinh Thám", "Linh Dị", "Y Học", "Tiểu Thuyết"],
         downloadLink: "https://vuotnhanh.com/Nww4",
         buyLink: "#",
         imageLink: "https://i.ibb.co/ksLDyT2C/Ma-Y-Th-n-To-n-T-K-M-i-u-Ng.jpg"
@@ -15,7 +15,7 @@ const mockBookData = [{
     },
     {
         bookName: "Miêu Cương Cổ Sự Trọn Bộ - Nam Vô Ca",
-        categories: ["Huyền Môn", "Linh Dị", "Vu Cổ", "Tiểu Thuyết"],
+        categories: ["Huyền Môn", "Linh Dị", "Linh Dị", "Tiểu Thuyết"],
         downloadLink: "https://vuotnhanh.com/QbSi",
         buyLink: "#",
         imageLink: "https://i.ibb.co/FbfY4Jst/825353252-3050940255247869-8944814064889152008-n.jpg"
@@ -29,21 +29,21 @@ const mockBookData = [{
     },
 	{
         bookName: "Miêu Cương Đạo Sự - Nam Vô Cà Sa Lý Khoa Phật",
-        categories: ["Huyền Môn", "Linh Dị", "Vu Cổ"],
+        categories: ["Huyền Môn", "Linh Dị", "Linh Dị"],
         downloadLink: "https://vuotnhanh.com/SkDG",
         buyLink: "#",
         imageLink: "https://i.ibb.co/nqyywHm3/837360047-3062019880806573-3937241524697526472-n.jpg"
     },
 	{
         bookName: "Cổ Mộ Mật Mã - Ngũ Nhất Thư",
-        categories: ["Trinh Thám", "Kinh Dị", "Y Học", "Tiểu Thuyết"],
+        categories: ["Trinh Thám", "Linh Dị", "Y Học", "Tiểu Thuyết"],
         downloadLink: "https://vuotnhanh.com/xhBF",
         buyLink: "#",
         imageLink: "https://i.ibb.co/dhC5Hjn/840333337-3062912340717327-5732256984555039930-n.jpg"
     },
 	{
         bookName: "Tương Tây Cản Thi Quỷ Sự - Vu Môn Lão Cửu",
-        categories: ["Trinh Thám", "Kinh Dị", "Y Học", "Tiểu Thuyết"],
+        categories: ["Trinh Thám", "Linh Dị", "Y Học", "Tiểu Thuyết"],
         downloadLink: "https://vuotnhanh.com/wQMa",
         buyLink: "#",
         imageLink: "https://i.ibb.co/gLMfgBSv/845892307-3067203030288258-8758688273808853230-n.jpg"
@@ -54,76 +54,6 @@ const mockBookData = [{
         downloadLink: "https://vuotnhanh.com/90ql",
         buyLink: "#",
         imageLink: "https://i.ibb.co/cKCVwZ5r/841653180-3065082890500272-6765951272084687808-n.jpg"
-    },
-	{
-        bookName: "Bồ Câu Không Đưa Thư - Nguyễn Nhật Ánh",
-        categories: ["Tuổi Học Trò", "Truyện Ngắn"],
-        downloadLink: "https://vuotnhanh.com/1UUB",
-        buyLink: "#",
-        imageLink: "https://i.ibb.co/4BgcS9B/B-C-u-Kh-ng-a-Th.jpg"
-    },
-	{
-        bookName: "Bong Bóng Lên Trời - Nguyễn Nhật Ánh",
-        categories: ["Tuổi Học Trò", "Truyện Ngắn"],
-        downloadLink: "https://vuotnhanh.com/ZpKG",
-        buyLink: "#",
-        imageLink: "https://i.ibb.co/0jnhNF37/Eg-QIsa-y91cl.jpg"
-    },
-	{
-        bookName: "Buổi Chiều Windows - Nguyễn Nhật Ánh",
-        categories: ["Tuổi Học Trò", "Truyện Ngắn"],
-        downloadLink: "https://vuotnhanh.com/JEuf",
-        buyLink: "#",
-        imageLink: "https://i.ibb.co/tw0PPp3Z/images.jpg"
-    },
-	{
-        bookName: "Chú Bé Rắc Rối - Nguyễn Nhật Ánh",
-        categories: ["Tuổi Học Trò", "Truyện Ngắn"],
-        downloadLink: "https://vuotnhanh.com/Xp7L",
-        buyLink: "#",
-        imageLink: "https://i.ibb.co/9HvKSPsj/anh-da-che.png"
-    },
-	{
-        bookName: "Chuyện Cổ Tích Dành Cho Người Lớn - Nguyễn Nhật Ánh",
-        categories: ["Tuổi Học Trò", "Truyện Ngắn"],
-        downloadLink: "https://vuotnhanh.com/nVIW",
-        buyLink: "#",
-        imageLink: "https://i.ibb.co/fzG6WZrf/images-1.jpg"
-    },
-	{
-        bookName: "Cô Gái Đến Từ Hôm Qua - Nguyễn Nhật Ánh",
-        categories: ["Tuổi Học Trò", "Truyện Ngắn"],
-        downloadLink: "https://vuotnhanh.com/3HcG",
-        buyLink: "#",
-        imageLink: "https://i.ibb.co/Pv6hN0Z7/images.jpg"
-    },
-	{
-        bookName: "Đi Qua Hoa Cúc - Nguyễn Nhật Ánh",
-        categories: ["Tuổi Học Trò", "Truyện Ngắn"],
-        downloadLink: "https://vuotnhanh.com/Dc0G",
-        buyLink: "#",
-        imageLink: "https://i.ibb.co/pjChHDXq/copy-21-NXBTre-Story-Full-05272014-082729.jpg"
-    },
-	{
-        bookName: "Đoàn Kịch Tỉnh Lẻ - Nguyễn Nhật Ánh",
-        categories: ["Tuổi Học Trò", "Truyện Ngắn"],
-        downloadLink: "https://vuotnhanh.com/ELW0",
-        buyLink: "#",
-        imageLink: "https://i.ibb.co/hRB0vK3g/FDYH.jpg"
-    },
-	{
-        bookName: "Hoa Hồng Xứ Khác - Nguyễn Nhật Ánh",
-        categories: ["Tuổi Học Trò", "Truyện Ngắn"],
-        downloadLink: "https://vuotnhanh.com/cJK3",
-        buyLink: "#",
-        imageLink: "https://i.ibb.co/FkqSw7Bz/31658.jpg"
-    },
-	{
-        bookName: "Họa Mi Một Mình - Nguyễn Nhật Ánh",
-        categories: ["Tuổi Học Trò", "Truyện Ngắn"],
-        downloadLink: "https://vuotnhanh.com/evMT",
-        buyLink: "#",
-        imageLink: "https://i.ibb.co/ymybHTpg/3623.jpg"
     },
 	{
         bookName: "Những Năm Làm Thầy Phong Thủy Giới Showbiz - Khổ Qua Xào Cua Hoa",
@@ -155,7 +85,7 @@ const mockBookData = [{
     },
 	{
         bookName: "28 - Jeong You-Jeong",
-        categories: ["Kinh Dị", "Giật Gân"],
+        categories: ["Linh Dị", "Giật Gân"],
         downloadLink: "https://vuotnhanh.com/eI5m",
         buyLink: "#",
         imageLink: "https://i.ibb.co/dw3qtb7r/74e8fada45b479bc75916999553372d4.webp"
@@ -183,7 +113,7 @@ const mockBookData = [{
     },
 	{
         bookName: "Bảo Ngươi Làm Trò Chơi Ngươi Lại Làm Video CG - Tiềm Thủy Đích Oa Ba",
-        categories: ["Võng Du"],
+        categories: ["Đô Thị"],
         downloadLink: "https://vuotnhanh.com/pFBW",
         buyLink: "#",
         imageLink: "https://i.ibb.co/sdJyLJJg/images.jpg"
@@ -287,20 +217,6 @@ const mockBookData = [{
         imageLink: "https://i.ibb.co/yGKYfdq/857106882-122237312912315355-7816280979642420808-n.jpg"
     },
 	{
-        bookName: "Ngày Xưa Có Một Chuyện Tình - Nguyễn Nhật Ánh",
-        categories: ["Truyện dài", "Tuổi Học Trò"],
-        downloadLink: "#",
-        buyLink: "#",
-        imageLink: "https://i.ibb.co/7xnpvrfG/nxbtre-full-17392020-053912.jpg"
-    },
-	{
-        bookName: "Ngày Xưa Có Một Chuyện Tình - Trịnh Đình Lê Minh",
-        categories: ["Movie"],
-        downloadLink: "#",
-        buyLink: "#",
-        imageLink: "https://i.ibb.co/KxS471hs/first-look-poster-1713322945213260277014.jpg"
-    },
-	{
         bookName: "Mao Sơn Hậu Duệ - Đại Lực Kim Cương Chưởng",
         categories: ["Trinh Thám", "Linh Dị"],
         downloadLink: "https://vuotnhanh.com/ZiVW",
@@ -334,6 +250,90 @@ const mockBookData = [{
         downloadLink: "https://vuotnhanh.com/mRc0",
         buyLink: "#",
         imageLink: "https://i.ibb.co/C3QtgF6h/dskdc.jpg"
+    },
+	{
+        bookName: "Những Năm Tháng Tôi Làm Thầy Âm Dương - Thôi Tẩu Triệu",
+        categories: ["Linh Dị", "Huyền Môn"],
+        downloadLink: "https://vuotnhanh.com/PVDi",
+        buyLink: "#",
+        imageLink: "https://i.ibb.co/XZsMGMbm/n2t2ltad.jpg"
+    },
+	{
+        bookName: "Chân Tướng Suy Luận Sư: Phá Kính - Hồ Diên Vân",
+        categories: ["Trinh Thám"],
+        downloadLink: "https://vuotnhanh.com/DjHj",
+        buyLink: "#",
+        imageLink: "https://i.ibb.co/6J1mxF8Y/ctslspk.jpg"
+    },
+	{
+        bookName: "Những Năm Tháng Tôi Làm Người Chim - Thôi Tẩu Triệu", 
+        categories: ["Linh Dị", "Huyền Môn"],
+        downloadLink: "#",
+        buyLink: "#",
+        imageLink: "https://i.ibb.co/GfCqHkYz/n2t2lnc.jpg"
+    },
+	{
+        bookName: "Hầu Đại Lợi: Ký Sự Hình Trinh (1-5) - Tiểu Kiều Lão Thụ",
+        categories: ["Trinh Thám"],
+        downloadLink: "https://vuotnhanh.com/c8UY",
+        buyLink: "#",
+        imageLink: "https://i.ibb.co/mVBdLMGZ/hdlkst2.jpg"
+    },
+	{
+        bookName: "Bạch Viên Khách Sạn - Liệp Y Dương",
+        categories: ["Phiêu Lưu", "Huyền Bí", "Trinh Thám"],
+        downloadLink: "https://vuotnhanh.com/KhGj",
+        buyLink: "#",
+        imageLink: "https://i.ibb.co/Df0WrmQB/bvks.jpg"
+    },
+	{
+        bookName: "Răng Của Dòng Sông - Sử Mại",
+        categories: ["Trinh Thám", "Tâm Lý Học"],
+        downloadLink: "https://vuotnhanh.com/P8va",
+        buyLink: "#",
+        imageLink: "https://iili.io/n60q1qB.jpg"
+    },
+	{
+        bookName: "Hàng Xóm Của Tôi Là Yêu Quái - Thiên Hạ Bá Xướng",
+        categories: ["Linh Dị"],
+        downloadLink: "https://vuotnhanh.com/pz6K",
+        buyLink: "#",
+        imageLink: "https://iili.io/n6lbfCG.jpg"
+    },
+	{
+        bookName: "Dân Gian Quỷ Văn Thực Lục 2- La Tiều Sâm",
+        categories: ["Linh Dị"],
+        downloadLink: "https://vuotnhanh.com/cfX0",
+        buyLink: "#",
+        imageLink: "https://iili.io/n65Wekv.jpg"
+    },
+	{
+        bookName: "Âm Dương Quái Đàm - Thiên Hạ Bá Xướng",
+        categories: ["Linh Dị", "Phiêu Lưu"],
+        downloadLink: "https://vuotnhanh.com/x9l3",
+        buyLink: "#",
+        imageLink: "https://iili.io/n6YFjJR.jpg"
+    },
+	{
+        bookName: "Mật Mã Chung Nam Sơn - Vu Đồng",
+        categories: ["Trinh Thám"],
+        downloadLink: "https://vuotnhanh.com/9qQC",
+        buyLink: "#",
+        imageLink: "https://iili.io/nZaKI3b.jpg"
+    },
+	{
+        bookName: "Người Sống Cấm Kỵ - Đạo Môn Cửu Đương Gia",
+        categories: ["Linh Dị", "Huyền Môn"],
+        downloadLink: "#",
+        buyLink: "#",
+        imageLink: "https://iili.io/ntg9yZP.jpg"
+    },
+	{
+        bookName: "Chết Trên Sao Hỏa - Thiên Thụy Thuyết Phù",
+        categories: ["Viễn Tưởng"],
+        downloadLink: "https://vuotnhanh.com/TXfD",
+        buyLink: "#",
+        imageLink: "https://iili.io/ntgdNG1.jpg"
     },
 	{
         bookName: "#",
